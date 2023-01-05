@@ -27,6 +27,7 @@ function loadItens() {
 
 loadItens();
 
+// FUNÇÃO PARA CRIAR UM CADASTRO NOVO
 function insertItem(item, index) {
   let tr = document.createElement("tr");
 
